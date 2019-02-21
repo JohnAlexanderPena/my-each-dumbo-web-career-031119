@@ -10,3 +10,5 @@ array
 end 
 
 my_each array[i]
+
+end
